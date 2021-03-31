@@ -8,7 +8,7 @@ namespace TDD.calculadora
     {
         public static int Soma(int num1, int num2)
         {
-            return -1;
+            return num1 + num2;
         }
 
         public static int Subt(int num1, int num2)
